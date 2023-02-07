@@ -1,5 +1,7 @@
 # Deep learning course repo
 
+[Dive into Deep Learning course material](https://d2l.ai/), [pdf](https://d2l.ai/d2l-en.pdf)
+
 #### Upcoming dates:
 1. [Registration of team tasks](./team-projects.md) (22/02/2023)
 2. Date of assignment of the first task (01/03/2023)
@@ -15,7 +17,7 @@
 2. First task
 
 #### Course content:
-1. (08/02/2023) Week 1.
+1. (08/02/2023) Week 1. [Theory slides](mif.vu.lt/~linp/dl/01-teo.pdf)
 2. (15/02/2023)
 3. (22/02/2023)
 4. (01/03/2023)
