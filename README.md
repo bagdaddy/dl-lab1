@@ -1,7 +1,7 @@
 # Deep learning course repo
 
 #### Upcoming dates:
-1. Registration of team tasks (22/02/2023)
+1. [Registration of team tasks](./team-projects.md) (22/02/2023)
 2. Date of assignment of the first task (01/03/2023)
 3. The date of assignment of the second task (22/03/2023)
 4. Midterm (29/03/2023)
@@ -10,8 +10,12 @@
 7. Presentation of the team task (24/05/2023)
 8. Exam ()
 
+# Tasks
+1. [Team project](./team-projects.md)
+2. First task
+
 #### Course content:
-1. (08/02/2023)
+1. (08/02/2023) Week 1.
 2. (15/02/2023)
 3. (22/02/2023)
 4. (01/03/2023)
