@@ -17,7 +17,7 @@
 2. First task
 
 #### Course content:
-1. (08/02/2023) Week 1. [Theory slides](mif.vu.lt/~linp/dl/01-teo.pdf)
+1. (08/02/2023) Week 1. [Theory slides](http://www.mif.vu.lt/~linp/dl/01-teo.pdf), [Practice](./01-week.md)
 2. (15/02/2023)
 3. (22/02/2023)
 4. (01/03/2023)
