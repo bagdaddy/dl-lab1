@@ -2,6 +2,8 @@
 
 [Dive into Deep Learning course material](https://d2l.ai/), [pdf](https://d2l.ai/d2l-en.pdf)
 
+[FAQ](./faq.md)
+
 #### Upcoming dates:
 1. [Registration of team tasks](./team-projects.md) (22/02/2023)
 2. Date of assignment of the first task (15/03/2023)
