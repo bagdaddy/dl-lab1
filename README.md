@@ -14,7 +14,7 @@
 
 # Tasks
 1. [Team project](./team-projects.md)
-2. First task
+2. [First task](./1-task.md)
 
 #### Course content:
 1. (08/02/2023) Week 1. [Theory slides](http://www.mif.vu.lt/~linp/dl/01-teo.pdf), [Practice](./01-week.md)
