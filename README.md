@@ -6,7 +6,7 @@
 
 #### Upcoming dates:
 1. [Registration of team tasks](./team-projects.md) (22/02/2023)
-2. Date of assignment of the first task (15/03/2023)
+2. Date of assignment of the [first task](./1-task.md) (15/03/2023)
 3. Midterm (29/03/2023)
 4. The date of assignment of the second task (12/04/2023)
 5. Date of assigning the team task (17/05/2023)
@@ -19,7 +19,7 @@
 
 #### Course content:
 1. (08/02/2023) Week 1. [Theory slides](http://www.mif.vu.lt/~linp/dl/01-teo.pdf), [Practice](./01-week.md)
-2. (15/02/2023)
+2. (15/02/2023) Week 2. [Theory slides](http://www.mif.vu.lt/~linp/dl/02-teo.pdf)
 3. (22/02/2023)
 4. (01/03/2023)
 5. (08/03/2023)
