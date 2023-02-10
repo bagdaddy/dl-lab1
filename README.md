@@ -19,7 +19,7 @@
 
 #### Course content:
 1. (08/02/2023) Week 1. [Theory slides](http://www.mif.vu.lt/~linp/dl/01-teo.pdf), [Practice](./01-week.md)
-2. (15/02/2023) Week 2. [Theory slides](http://www.mif.vu.lt/~linp/dl/02-teo.pdf)
+2. (15/02/2023) Week 2. [Theory slides](http://www.mif.vu.lt/~linp/dl/02-teo.pdf), [Practice](./02/02-week.md)
 3. (22/02/2023)
 4. (01/03/2023)
 5. (08/03/2023)
