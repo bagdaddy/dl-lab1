@@ -2,3 +2,5 @@ Material/*
 Labs/lab1/*.jpg
 Labs/lab1/test
 Labs/lab1/train
+Labs/lab1/val
+Labs/lab1/validation
